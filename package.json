@@ -1,5 +1,5 @@
 {
-  "name": "lscompany-error",
+  "name": "amplify-error",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -13,11 +13,10 @@
     "@types/react": "19.2.3",
     "@types/react-dom": "19.2.2",
     "autoprefixer": "10.4.22",
-    "next": "16.0.1",
+    "next": "13.4.19",
     "postcss": "8.5.6",
-    "react": "19.2.0",
-    "react-dom": "19.2.0",
-    "tailwindcss": "4.1.17",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
     "typescript": "5.9.3"
   }
 }
