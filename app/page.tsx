@@ -34,6 +34,12 @@ export default function Home() {
       <Link href={"/b"} prefetch={true}>
         B
       </Link>
+      <Link href={"/c"} prefetch={true}>
+        C
+      </Link>
+      <Link href={"/d"} prefetch={true}>
+        D
+      </Link>
       <Image src={"/image.png"} alt="Example image" width={100} height={100} />
     </div>
   );
